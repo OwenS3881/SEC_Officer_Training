@@ -1,0 +1,27 @@
+{
+	"name": "chapter3",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index",
+		"dev": "nodemon index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/OwenS3881/SEC_Officer_Training.git"
+	},
+	"author": "Owen Szymanski",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/OwenS3881/SEC_Officer_Training/issues"
+	},
+	"homepage": "https://github.com/OwenS3881/SEC_Officer_Training#readme",
+	"description": "",
+	"dependencies": {
+		"date-fns": "^4.1.0",
+		"uuid": "^11.0.4"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.9"
+	}
+}
