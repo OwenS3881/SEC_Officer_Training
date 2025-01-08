@@ -1,0 +1,105 @@
+20250107	14:28:46	c87de7b6-a3cc-40e5-8c54-751d25075004	/new-page.html	GET
+20250107	14:28:46	339751ba-0a4d-465a-89a3-b6d6d123d067	/css/style.css	GET
+20250107	14:28:46	7842085e-e6cd-4b2f-bd26-ff84a01fb9b1	/img/img1.jpg	GET
+20250107	14:28:46	ade96b86-93fa-4e5f-a1b5-ca923455c38e	/favicon.ico	GET
+20250107	14:28:59	e4b1f382-1270-47e1-98cb-9668c8547af2	/new-page.htm	GET
+20250107	14:28:59	18f8b7f0-ca4f-4568-ad2c-227ddbcecd36	/css/style.css	GET
+20250107	14:29:50	f899dbaf-a19e-4354-b591-b7c4120279fd	/new-page.htm	GET
+20250107	14:30:13	16552849-0937-4d7c-8f26-63ecba8f934a	/new-page.htm	GET
+20250107	14:30:13	ec75f140-5fd3-42c0-ae9c-af241d2f8257	/css/style.css	GET
+20250108	10:24:06	b8634416-746d-439a-9d96-29d1973f9951	GET	undefined	/
+20250108	10:24:06	a3442f34-e9c0-4a7b-840e-68cc5e7381ed	GET	undefined	/css/style.css
+20250108	10:24:17	1961e34e-f5ae-43a6-b554-4f3ba6413128	GET	undefined	/
+20250108	10:24:17	d922d4d7-e6b7-4fa5-85f1-f0029bbdc668	GET	undefined	/css/style.css
+20250108	10:26:28	dfe84557-a8d3-4bdd-b5d0-3365bdc06274	GET	undefined	/
+20250108	10:26:28	8f671b4b-e405-44d2-9741-6af73890a007	GET	undefined	/css/style.css
+20250108	10:30:32	7af66412-0bf4-4bba-8dd1-c8134c51fc1f	OPTIONS	https://www.google.com	/
+20250108	10:30:32	9c972899-6225-4459-aee9-a23452d6909e	GET	https://www.google.com	/
+20250108	10:35:34	9d762fa4-5428-4cb1-91f1-ac78a8c44d4c	OPTIONS	https://www.google.com	/
+20250108	10:35:34	58e09e90-7e80-471a-9357-612ae34d1db2	GET	https://www.google.com	/
+20250108	10:36:26	a4e5926d-be13-40ce-987b-12cd52fce3a0	OPTIONS	https://ocscode.com	/
+20250108	10:36:27	0e8e3255-8114-40f3-ba5f-cb90b75fd2c8	GET	https://ocscode.com	/
+20250108	10:36:44	205ffd04-d7ed-4346-802a-ecc45d78dd38	OPTIONS	https://ocscode.com	/
+20250108	10:36:44	9cfb8cf7-2737-49a0-92c2-b37b34421a24	GET	https://ocscode.com	/
+20250108	10:40:13	b045ff43-8009-46fb-b858-a27ef781ae86	GET	undefined	/
+20250108	10:41:03	f3a87e4b-cff9-4606-9c4f-686061728e4d	GET	undefined	/
+20250108	10:41:03	dd0c1805-151b-4639-b206-78f2ad4927fe	GET	undefined	/css/style.css
+20250108	10:47:30	136ffec7-9aad-400b-88fb-8eb1647aada3	GET	undefined	/
+20250108	10:47:30	9e4ff0aa-be02-4666-ac0c-94f764f7d2cf	GET	undefined	/css/style.css
+20250108	10:47:49	95f27b23-8141-4852-a519-f927d7d4dfdd	OPTIONS	https://www.google.com	/
+20250108	10:47:49	3a5aec19-63e4-4dd2-8056-4bd3c2aabd80	GET	https://www.google.com	/
+20250108	10:48:37	aa5457fc-0bae-4809-8f7d-e01639fa3462	GET	undefined	/
+20250108	10:48:46	a90b792f-05b1-4b63-9c57-482e234426f5	GET	undefined	/
+20250108	10:48:46	957ef2e4-9ce7-4080-93bd-b9fe63946eff	GET	undefined	/css/style.css
+20250108	10:50:13	3d6fab1c-688d-4b78-ae89-9663e70ae1e1	GET	undefined	/dave
+20250108	10:50:13	1fb9a392-b94e-4bcc-8141-d45848315cc7	GET	undefined	/css/style.css
+20250108	10:52:18	e91ca49c-6c9c-4201-8a22-fceaed42a9aa	GET	undefined	/dave
+20250108	10:52:18	ea7e58d2-5ef1-4c37-9edb-46e7ca2c2d4a	GET	undefined	/css/style.css
+20250108	11:07:20	2ceff6de-cc54-4c38-9b89-7979513bc0c1	GET	undefined	/dave
+20250108	11:07:20	590ebf2a-b10a-459b-8881-251d5df74499	GET	undefined	/css/style.css
+20250108	11:07:26	1006fc17-8f76-42f4-b02a-c8a4f63c735e	GET	undefined	/
+20250108	11:07:26	3a27f133-39b0-4114-a77b-96b61e78113f	GET	undefined	/css/style.css
+20250108	11:07:33	2f3f292d-575e-4eaf-9659-1b95891d67d4	GET	undefined	/subdir
+20250108	11:07:39	483f1f5a-994c-45e2-863d-42bb89a78f51	GET	undefined	/subdir/test
+20250108	11:07:52	e20dffa3-70ca-45b2-b0d6-9cbc086ed42c	GET	undefined	/subdir/testghfh
+20250108	11:07:52	9942616b-8848-4307-836d-1f5f03c9f403	GET	undefined	/subdir/css/style.css
+20250108	11:08:38	bc17f810-f1bc-417a-a857-bf1b90ce92e0	GET	undefined	/subdir/testghfh
+20250108	11:08:38	5bbad7ed-65c5-492a-a4d1-04cc1f4b5ca2	GET	undefined	/subdir/css/style.css
+20250108	11:09:00	20a1269f-0635-40e2-9d29-ccabe926405b	GET	undefined	/subdir/
+20250108	11:13:19	48adbb76-5626-4312-8f4c-7a78ae2fc89e	GET	undefined	/
+20250108	11:13:19	0485cae3-afcc-4654-a46e-951a0fc3015e	GET	undefined	/css/style.css
+20250108	11:13:25	94114a89-460a-4cec-971c-daddcfb8fe85	GET	undefined	/new-page
+20250108	11:13:25	2cb1eeed-addc-4028-a228-207388a5738d	GET	undefined	/img/img1.jpg
+20250108	11:13:25	88fd09eb-a444-4cde-8895-526e63e90211	GET	undefined	/css/style.css
+20250108	11:13:33	1c0f4688-b96c-45a2-acd1-e3fd251a744e	GET	undefined	/new-page.html
+20250108	11:13:33	32de4a5f-0429-4f49-bc65-c2f04ccf3443	GET	undefined	/css/style.css
+20250108	11:13:33	634b748a-48ce-49b5-84e5-a836ff2c24f0	GET	undefined	/img/img1.jpg
+20250108	11:13:40	c983af93-7fae-4e2b-95ca-24a3532f09d0	GET	undefined	/index
+20250108	11:13:40	b540b081-fdd0-4701-b6a3-d4694e52ab9a	GET	undefined	/css/style.css
+20250108	11:23:44	7c2b7450-4e33-4b3e-80ad-87330a2c4a09	GET	undefined	/employees
+20250108	11:24:03	eea726ad-a5e5-4784-8d15-afb0722fae60	POST	undefined	/employees
+20250108	11:24:11	12caf5de-6c1a-4f82-938f-23c983b43114	PUT	undefined	/employees
+20250108	11:26:09	9236e16c-332d-4a55-a523-de8b7821bb93	POST	undefined	/employees
+20250108	11:26:15	4c71f7cc-5b28-43c3-8613-2ccf045715dd	POST	undefined	/employees
+20250108	11:26:22	436e0f7d-ea92-4444-af8c-0a457ac7d6be	PUT	undefined	/employees
+20250108	11:27:25	c6324b99-e9d6-4571-b829-5bddba745c2b	GET	undefined	/employees/1
+20250108	18:01:16	cb43156e-12ba-4fe2-9494-4e78ce5202c9	GET	undefined	/employees
+20250108	18:02:14	4a349302-7f91-48c8-80c7-018b356d605e	POST	undefined	/employees
+20250108	18:02:37	d176f1f6-0502-4578-974a-938258ef6734	POST	undefined	/employees
+20250108	18:03:04	c332bef9-7a3e-4223-8277-36d08d77cbc8	POST	undefined	/employees
+20250108	18:03:05	26025f64-cc5b-40e4-a0a1-111b13f16ac6	POST	undefined	/employees
+20250108	18:03:05	5ca8ddca-f897-41cd-a2c6-39a3eb3db860	POST	undefined	/employees
+20250108	18:03:05	72c45528-c481-4c71-ac12-7de826b3936f	POST	undefined	/employees
+20250108	18:03:58	c07c3e4b-39b8-4a68-ae03-fa5a483ab202	POST	undefined	/employees
+20250108	18:04:09	89805c18-24b3-426a-8f63-3a5809514378	POST	undefined	/employees
+20250108	18:04:30	f455adda-8a82-4f6f-b98b-10c70978a319	POST	undefined	/employees
+20250108	18:04:46	9dea75dc-1c55-44b8-9a76-fb1cb60c9a9b	POST	undefined	/employees
+20250108	18:05:22	30c9fd29-548f-43e5-822a-6f4eab9fdf0f	PUT	undefined	/employees
+20250108	18:06:12	01a13415-6924-4841-b849-780a6460bc2f	PUT	undefined	/employees
+20250108	18:06:16	cc31c591-6c94-480e-84ae-3cca7a5b2326	PUT	undefined	/employees
+20250108	18:07:00	4da4909e-2779-435c-b60e-5d171a7c104b	PUT	undefined	/employees
+20250108	18:08:05	b89a79b4-6477-4241-95f7-d264d65b02fa	PUT	undefined	/employees
+20250108	18:08:06	3263ea4d-bc27-4ea0-97af-1dfde4a6e101	PUT	undefined	/employees
+20250108	18:10:45	3300ad08-ca14-4f05-bfa0-ed8894b98823	PUT	undefined	/employees
+20250108	18:10:49	4a61f35d-d8a5-4739-b1f7-29ef4d755ae5	PUT	undefined	/employees
+20250108	18:10:52	64217da3-f2e1-4195-84b5-91e1a48d2b86	GET	undefined	/employees
+20250108	18:11:02	3d4133cf-e55b-410c-b43c-d43d5fad0bb4	GET	undefined	/employees
+20250108	18:11:22	07b63505-1964-446b-942a-5daf2f22492a	GET	undefined	/employees
+20250108	18:11:27	34c7a4b3-292d-4fd5-b1d0-4af4a8655db5	GET	undefined	/employees
+20250108	18:11:32	2f7d59fb-b900-42df-88c0-3efadcf8a6fa	GET	undefined	/employees
+20250108	18:11:32	abf64e41-6637-434e-abd9-82cc541d34f0	GET	undefined	/employees
+20250108	18:11:33	61f4dd51-c9a8-4377-9cf6-b88dc6be363d	GET	undefined	/employees
+20250108	18:11:33	9b1eec17-399e-4348-854f-10763fba90f5	GET	undefined	/employees
+20250108	18:11:33	05b2e17b-59b0-4b27-b1b6-ab9830271d77	GET	undefined	/employees
+20250108	18:11:38	d2364f14-3ede-4d92-a77b-d453c0886fe7	PUT	undefined	/employees
+20250108	18:12:17	c548d37f-6abe-4c59-9407-3ddf52b69731	POST	undefined	/employees
+20250108	18:12:23	43ed4699-d58b-4e45-b9b5-0be6995772d4	PUT	undefined	/employees
+20250108	18:12:44	8cedd60c-7fc3-44d3-9fe9-b2db5027be9a	DELETE	undefined	/employees
+20250108	18:12:50	1318aecf-5e63-411c-a72e-057d48ea38e4	DELETE	undefined	/employees
+20250108	18:13:05	3e68cc5d-a0a9-4ca1-a261-024aa27a7b57	GET	undefined	/employees/1
+20250108	18:13:09	8f9c8121-ce69-47c7-8395-e5b75e4b05de	GET	undefined	/employees/2
+20250108	18:13:13	3d5216a1-b5f0-4af1-b833-16ae2d27fb91	GET	undefined	/employees/2
+20250108	18:13:15	68b44334-fc77-466d-b330-325e4110b374	GET	undefined	/employees/1
+20250108	18:13:39	cb0e954d-2fc8-413d-b06f-49abdc1e89a1	GET	undefined	/employees/1
+20250108	18:13:42	d407af5c-a191-4dda-96ea-e12005e5d8c1	GET	undefined	/employees/2
+20250108	18:13:43	39758a72-087f-4dbf-8ea6-a892f32f7426	GET	undefined	/employees/3
