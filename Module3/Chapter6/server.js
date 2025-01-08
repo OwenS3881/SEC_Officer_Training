@@ -13,7 +13,7 @@ app.get("/new-page(.html)?", (req, res) => {
 });
 
 app.get("/old-page(.html)?", (req, res) => {
-	res.redirect(301, "/nw-page.html");
+	res.redirect(301, "/new-page.html");
 });
 
 //Route handlers
