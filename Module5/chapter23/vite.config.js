@@ -8,4 +8,5 @@ export default defineConfig({
 		outDir: "dist",
 		assetsDir: "assets",
 	},
+	base: "/SEC_Officer_Training/Module5/chapter23",
 });
